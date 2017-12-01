@@ -10,3 +10,6 @@
   > **pkg** contains files which generated after build; 
   >
   > **bin** store the runnable files.
+
+### 2017.12.1
+- Typed three simple go program from https://tour.go-zh.org/basics
