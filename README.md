@@ -13,3 +13,16 @@
 
 ### 2017.12.1
 - Typed three simple go program from https://tour.go-zh.org/basics
+
+### 2017.12.2
+- Continue practise from tour, include:
+
+    > functions
+    >
+    > multiple returns
+    >
+    > named returns
+    >
+    > basic varibles
+    >
+    > zero
