@@ -30,3 +30,6 @@
 ### 2017.12.3
 - Complete basic section and flow control section
     
+### 2017.12.4
+- Brief and simple section for pointer
+    
