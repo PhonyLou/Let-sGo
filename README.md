@@ -32,4 +32,6 @@
     
 ### 2017.12.4
 - Brief and simple section for pointer
-    
+
+### 2017.12.6
+- Simple practise of struct
