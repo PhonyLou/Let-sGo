@@ -1,5 +1,6 @@
 # This is my first go program project
 
+I will build a/some micro-service(s) by Go and deploy it/them as Docker Image, that's my phase 1 purpose of this curse.
 ## Learn log
 
 ### 2017.11.30
