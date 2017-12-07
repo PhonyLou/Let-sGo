@@ -35,3 +35,6 @@
 
 ### 2017.12.6
 - Simple practise of struct
+
+### 2017.12.7
+- Run a simple struct pointer demo
